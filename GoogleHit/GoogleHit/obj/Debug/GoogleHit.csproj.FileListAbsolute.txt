@@ -1,0 +1,7 @@
+C:\Users\Yoad.H\Desktop\Google hit\GoogleHit\GoogleHit\bin\Debug\GoogleHit.exe.config
+C:\Users\Yoad.H\Desktop\Google hit\GoogleHit\GoogleHit\bin\Debug\GoogleHit.exe
+C:\Users\Yoad.H\Desktop\Google hit\GoogleHit\GoogleHit\bin\Debug\GoogleHit.pdb
+C:\Users\Yoad.H\Desktop\Google hit\GoogleHit\GoogleHit\obj\Debug\GoogleHit.csprojAssemblyReference.cache
+C:\Users\Yoad.H\Desktop\Google hit\GoogleHit\GoogleHit\obj\Debug\GoogleHit.csproj.CoreCompileInputs.cache
+C:\Users\Yoad.H\Desktop\Google hit\GoogleHit\GoogleHit\obj\Debug\GoogleHit.exe
+C:\Users\Yoad.H\Desktop\Google hit\GoogleHit\GoogleHit\obj\Debug\GoogleHit.pdb
